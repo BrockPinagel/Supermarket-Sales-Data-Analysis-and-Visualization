@@ -1,10 +1,16 @@
+# Supermarket Sales Data: Analysis and Visualization
+
 Brock Pinagel
+
 College of Business and Information Technology, Lawrence Technological University
+
 INT 6103: Python for Data Analysis and Visualization
+
 Dr. Yash Patel
+
 December 18, 2025
 
-**Supermarket Sales Data: Analysis and Visualization**
+**Introduction**
 
 This project examines supermarket sales data to explore key issues related to sales performance, customer behavior, and the factors that influence total revenue. Supermarkets operate in a competitive and fast-paced retail environment in which understanding purchasing patterns is essential for maintaining profitability and operational efficiency. This topic holds significant business value because data-driven insights support improved inventory management, reduced waste, more effective marketing strategies, and better alignment of promotions with customer preferences. From an industry perspective, retailers increasingly rely on analytics to enhance decision-making, forecast demand, and strengthen customer satisfaction, making the analysis both relevant and timely.
 The primary goal of this project is to expose patterns and trends derived from total sales across branches, customer types, and monthly sales. Several guiding questions frame the analysis: Which branches generate the highest revenue? Which customer type is the most valuable? How do unit prices and purchase quantities influence total sales? Are there identifiable monthly or seasonal patterns in sales volume? Addressing these questions provides a comprehensive view of supermarket performance and highlights areas where operational and financial improvements may be possible.
@@ -82,6 +88,6 @@ The analysis successfully addressed the original goal of understanding sales per
 Several insights emerged from the project, including the stability of branch ratings, the even distribution of sales across locations, and the pronounced seasonal dip in sales during the summer months. The correlation heatmap and regression models also reinforced the relationships between pricing, quantity, and total transaction value, providing a deeper understanding of the variables that most directly affect revenue.
 Despite these meaningful findings, the analysis faced certain limitations. The dataset covered only one year of transactions, which restricted long-term trend analysis and reduced the ability to model seasonality with higher accuracy. The dataset also lacked demographic variables, limiting insights into customer segments and purchasing motivations. Additionally, the absence of cost or margin data prevented the evaluation of profitability rather than revenue alone. Future work could incorporate multi-year data, demographic information, and more advanced predictive models to provide a more comprehensive analysis. 
 
-References
+### References
 
 HANIF, I. (2025). Supermarket Sales. Kaggle.com. https://www.kaggle.com/datasets/hanif13/supermarket-sales
