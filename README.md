@@ -85,18 +85,3 @@ Despite these meaningful findings, the analysis faced certain limitations. The d
 References
 
 HANIF, I. (2025). Supermarket Sales. Kaggle.com. https://www.kaggle.com/datasets/hanif13/supermarket-sales
-
-‌
-
-
-
-
-
-
- 
-
-
-
-
-
-Disclosure: AI was used for brainstorming, grammar, punctuation, organization, peer-review, and tone. The content and ideas for the project and this paper are my own.
