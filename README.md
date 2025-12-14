@@ -1,0 +1,2 @@
+# Supermarket-Sales-Data-Analysis-and-Visualization
+This project examines supermarket sales data to explore key issues related to sales performance, customer behavior, and the factors that influence total revenue. Supermarkets operate in a competitive and fast-paced retail environment in which understanding purchasing patterns is essential for maintaining profitability and operational efficiency. 
